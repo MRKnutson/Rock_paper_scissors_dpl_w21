@@ -15,6 +15,7 @@ const TopNav = () => {
           <Nav.Link href = "/">Home</Nav.Link>
           <Nav.Link href = "/RPS">1p-Rock/Paper/Scissors</Nav.Link>
           <Nav.Link href = "/RPS2">2p-Rock/Paper/Scissors</Nav.Link>
+          <Nav.Link href = "/Players">Player List</Nav.Link>
         </Nav>
       </Navbar.Collapse>
       </Container>
